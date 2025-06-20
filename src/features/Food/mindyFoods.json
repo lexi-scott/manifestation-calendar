@@ -1,0 +1,73 @@
+{
+  "Menstrual": {
+    "focus": "Iron replenishment, magnesium for cramps, anti-inflammatory",
+    "foods": [
+      "Spinach",
+      "Kale",
+      "Lentils",
+      "Chickpeas",
+      "Oysters",
+      "Salmon",
+      "Pumpkin seeds",
+      "Chia seeds",
+      "Walnuts",
+      "Bone broth",
+      "Beets",
+      "Ginger",
+      "Dark chocolate"
+    ]
+  },
+  "Follicular": {
+    "focus": "Estrogen support, liver detox, light + fresh",
+    "foods": [
+      "Broccoli",
+      "Carrots",
+      "Zucchini",
+      "Greens (arugula, romaine)",
+      "Kimchi",
+      "Sauerkraut",
+      "Pumpkin seeds",
+      "Flax seeds",
+      "Berries",
+      "Oats",
+      "Quinoa",
+      "Avocado",
+      "Chicken breast"
+    ]
+  },
+  "Ovulation": {
+    "focus": "Liver support, antioxidant-rich, estrogen detox",
+    "foods": [
+      "Cauliflower",
+      "Brussels sprouts",
+      "Bok choy",
+      "Blueberries",
+      "Apples",
+      "Sunflower seeds",
+      "Brown rice",
+      "Salmon",
+      "Lentils",
+      "Eggs",
+      "Olive oil",
+      "Nuts (almonds, walnuts)"
+    ]
+  },
+  "Luteal": {
+    "focus": "Progesterone support, complex carbs, B6 & magnesium",
+    "foods": [
+      "Sweet potatoes",
+      "Pumpkin",
+      "Brown rice",
+      "Quinoa",
+      "Chickpeas",
+      "Turkey",
+      "Citrus fruits",
+      "Spinach",
+      "Sunflower seeds",
+      "Dark chocolate",
+      "Bananas",
+      "Avocado",
+      "Bone broth"
+    ]
+  }
+}
